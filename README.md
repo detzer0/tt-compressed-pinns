@@ -2,7 +2,7 @@
 
 This repository provides supporting code for the ablation studies presented in the arXiv paper
 
-Tensor-Train Compressed Separable PINNs: A Curvature-Aware Optimization Framework for Parametric PDEs in High Dimensions.
+D. Korolev, M. Eigel. Tensor-Train Compressed Separable PINNs: A Curvature-Aware Optimization Framework for Parametric PDEs in High Dimensions.
 
 # Overview
 
