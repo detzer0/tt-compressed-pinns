@@ -1,8 +1,10 @@
 # Tensor-Train-Compressed-Separable-PINNs
 
-This repository provides supporting code for the ablation studies presented in the arXiv paper
+This repository provides supporting code for the ablation studies presented in the paper
 
 D. Korolev, M. Eigel. Tensor-Train Compressed Separable PINNs: A Curvature-Aware Optimization Framework for Parametric PDEs in High Dimensions.
+
+https://arxiv.org/pdf/2609.36165
 
 # Overview
 
